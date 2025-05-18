@@ -1,0 +1,48 @@
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #2c3e50;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  text-align: justify;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 12px;
+  width: 300px;
+  max-width: 90%;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 60%;
+}
+
+table, td {
+  border: 1px solid #888;
+  padding: 10px;
+  text-align: center;
+}
+
+a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e74c3c;
+}
