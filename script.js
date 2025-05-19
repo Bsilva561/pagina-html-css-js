@@ -1,6 +1,4 @@
 function mostrarMensagem() {
-  const div = document.getElementById("mensagem");
-  div.textContent = "Seja bem-vindo! Nunca pare de aprender.";
-  div.style.marginTop = "10px";
-  div.style.fontWeight = "bold";
+  const divMensagem = document.getElementById("mensagem");
+  divMensagem.textContent = "Seja bem-vindo à minha página! Nunca pare de aprender!";
 }
